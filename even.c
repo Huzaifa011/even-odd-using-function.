@@ -18,7 +18,7 @@ int main()
 {  int n;
     printf("enter a num");
     scanf("%d",&n);
-   even();
+   even(n);
     //int ans=even();
     //printf("%d",ans);//
     return 0;
